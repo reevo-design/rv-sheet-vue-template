@@ -1,5 +1,5 @@
 # Reevo Sheet Vue | Modern Touch-Friendly Modal for Vue.js
-<hr />
+
 <img alt="Reevo Sheet Modal - Modern Vue.js bottom sheet modal component" src="./media/img.png" />
 
 <p style="text-align: center">
@@ -18,8 +18,6 @@
 </div>
 
 <p style="text-align: center">Explore how to use <strong>RvSheet</strong> with Vue.js in this comprehensive example repository.</p>
-
-<hr />
 
 ## 🚀 Features
 - **Touch-Optimized**: Specifically designed for mobile and touch devices, ensuring seamless user interactions.
@@ -43,19 +41,14 @@ Install with npm:
 ```bash
 npm i @reevo-design/sheet
 ```
-<hr />
 
 ## 🛝 Playground
 
 Experiment with RvSheet props in real time on our [interactive playground](https://reevo.design/modules/sheet)
 
-<hr />
-
 ## 📄 Documentation
 
 Access the full Reevo Sheet [documentation](https://reevo.design/docs/sheet) to learn about all available features, configurations, and integration tips.
-
-<hr />
 
 ## 🪟 Vue.js template
 
