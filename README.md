@@ -20,12 +20,13 @@
 <p style="text-align: center">Explore how to use <strong>RvSheet</strong> with Vue.js in this comprehensive example repository.</p>
 
 ## 🚀 Features
-- **Touch-Optimized**: Specifically designed for mobile and touch devices, ensuring seamless user interactions.
+- **Touch-Optimized**: Designed specifically for mobile and touch devices, RvSheet ensures smooth, user-friendly interactions for all users.
 - **Smooth Animations**: Powered by WAAPI, offering one of the most efficient and smooth animation experiences available today.
-- **Vue.js Integration**: Effortlessly integrates with Vue.js, making development faster and easier.
-- **Framework-Agnostic**: Built with pure JavaScript, allowing you to use it with any framework of your choice.
-- **Comprehensive Configuration**: Packed with all the essential props to meet your customization needs.
+- **Framework-Agnostic**: Built with pure JavaScript, RvSheet seamlessly integrates with any framework of your choice, from React to Angular, Vue, or even vanilla JS.
+- **Highly Customizable**: Packed with all the essential props to meet your customization needs.
 - **Full Control**: Offers complete flexibility over templates and styles, empowering you to create a fully customized user experience.
+- **Virtual keyboard avoidance**: Automatically adjusts and moves the sheet when the virtual keyboard opens on mobile devices, providing an uninterrupted user experience.
+- **Lightweight and Efficient**: At just 20KB, RvSheet is designed for speed and performance without compromising on functionality.
 
 ## 📦 Installation
 
